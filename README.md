@@ -30,6 +30,7 @@ The project is intended for the following stakeholders:
 1. Spring Boot
 2. Java
 3. MySQL
+4. NodeJs
 ## Front End
 1. Angular
 2. TypeScript
