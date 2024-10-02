@@ -1,0 +1,7 @@
+spring:
+  profiles:
+    active: @spring.profiles.active@
+
+application:
+  title: CapitaCore
+  version: 1.0
